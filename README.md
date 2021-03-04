@@ -1,6 +1,6 @@
 DelftX-ROS-1-Course
 ===
-This is my note for [DelftX: ROS1x Hello (Real) World with ROS – Robot Operating System](https://learning.edx.org/course/course-v1:DelftX+ROS1x+1T2020/home)
+This repository provides my works on [DelftX: ROS1x Hello (Real) World with ROS – Robot Operating System](https://learning.edx.org/course/course-v1:DelftX+ROS1x+1T2020/home)
 
 # Getting Started
 
