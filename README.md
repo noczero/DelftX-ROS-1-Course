@@ -22,5 +22,14 @@ This repository has
     .
     ├── src                     # contains ROS package in catkin workspace
     ├── README.md               
-    └── W1-ROS-Fundamental.md   # Week 1 - ROS Fundamental 
+    └── W1-ROS-Essentials.md   # Week 1 - ROS Essentials 
+
+### Course Outline
+#### [Week 1: ROS Essentials](W1-ROS-Essentials.md)
+#### Week 2: Build your own robot environment
+#### Week 3: Autonomous Navigation
+#### Week 4: Manipulation
+#### Week 5: Robot Vision
+#### Week 6: Final Project
+#### Closing
 
