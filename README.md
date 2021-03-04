@@ -2,6 +2,8 @@ DelftX-ROS-1-Course
 ===
 This repository provides my works on [DelftX: ROS1x Hello (Real) World with ROS – Robot Operating System](https://learning.edx.org/course/course-v1:DelftX+ROS1x+1T2020/home)
 
+Thanks TU Delft Online Learning and EDX for free course and also for the instructor Dr. Mukunda Bharatheesha.
+
 # Getting Started
 
 The course code run on Singularity Container, make sure you can have access to its terminal. You can refer in [Course Downloads](https://courses.edx.org/courses/course-v1:DelftX+ROS1x+1T2020/f40348a2d8f648769ba3510c761c93a1/) for environment setup
