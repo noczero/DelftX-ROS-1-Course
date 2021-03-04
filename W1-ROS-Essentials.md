@@ -1,4 +1,4 @@
-# Week 1 - ROS Fundamental
+# Week 1 - ROS Essentials
 
 
 ## Setup ROS Environment
