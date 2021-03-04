@@ -1,0 +1,4 @@
+float64 distances_in_meters_req
+---
+float64 distances_in_feet_res
+bool success_res
