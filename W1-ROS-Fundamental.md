@@ -1,12 +1,5 @@
 # Week 1 - ROS Fundamental
-This is my note for DelftX: ROS1x Hello (Real) World with ROS – Robot Operating System
 
-| Environment      | Description |
-| ----------- | ----------- |
-| Ubuntu       | 20.04        |
-| Singularity      | 3.7.1       |
-| HRWROS ROS Distro   | Melodic       |
-| HRWROS ROS Version   | 1.14.3         |
 
 ## Setup ROS Environment
 ```
