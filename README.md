@@ -4,7 +4,7 @@ This is my note for [DelftX: ROS1x Hello (Real) World with ROS – Robot Operati
 
 # Getting Started
 
-The course code run on Singularity Container, make sure you can have access to its terminal.
+The course code run on Singularity Container, make sure you can have access to its terminal. You can refer in [Course Downloads](https://courses.edx.org/courses/course-v1:DelftX+ROS1x+1T2020/f40348a2d8f648769ba3510c761c93a1/)
 
 My setup on this course :
 
