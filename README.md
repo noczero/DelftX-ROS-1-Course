@@ -20,9 +20,10 @@ My setup on this course :
 This repository has 
 
     .
-    ├── src                     # contains ROS package in catkin workspace
+    ├── src                     # contains ROS package in catkin workspace.
+    ├── images                  # contains images for markdown.
     ├── README.md               
-    └── W1-ROS-Essentials.md   # Week 1 - ROS Essentials 
+    └── W1-ROS-Essentials.md    # Week 1 - ROS Essentials.
 
 ### Course Outline
 #### [Week 1: ROS Essentials](W1-ROS-Essentials.md)
