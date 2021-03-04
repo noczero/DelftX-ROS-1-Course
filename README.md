@@ -1,8 +1,8 @@
 DelftX-ROS-1-Course
 ===
-[![Visits Badge](https://badges.pufler.dev/visits/noczero/DelftX-ROS-1-Course)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/created/noczero/DelftX-ROS-1-Course)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/updated/noczero/DelftX-ROS-1-Course)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/noczero/DelftX-ROS-1-Course)](https://github.com/noczero/DelftX-ROS-1-Course)
+[![Updated Badge](https://badges.pufler.dev/created/noczero/DelftX-ROS-1-Course)](https://github.com/noczero/DelftX-ROS-1-Course)
+[![Visits Badge](https://badges.pufler.dev/updated/noczero/DelftX-ROS-1-Course)](https://github.com/noczero/DelftX-ROS-1-Course)
 
 This repository provides my works on [DelftX: ROS1x Hello (Real) World with ROS – Robot Operating System](https://learning.edx.org/course/course-v1:DelftX+ROS1x+1T2020/home)
 
